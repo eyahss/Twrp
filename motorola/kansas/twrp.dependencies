@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "motorola/kansas-vendor",
+    "target_path": "vendor/motorola/kansas",
+    "branch": "main",
+    "remote": "github"
+  }
+]
